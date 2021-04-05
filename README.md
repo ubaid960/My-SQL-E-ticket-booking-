@@ -1,0 +1,2 @@
+# My-SQL-E-ticket-booking-
+Used SQL Queries to help customers book a railway ticket. once certain seats are booked, they should be blocked so that no other user can book them again. Also, if a user is already booking, another user cannot aaccess at the same. Many factors are involved in a ticket reservation – passenger details, train details, route details, station details, booking details, and so on. 
